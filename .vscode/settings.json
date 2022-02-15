@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "push_swap.h": "c",
+        "type_traits": "c"
+    },
+    "cmake.configureOnOpen": false
+}
